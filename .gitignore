@@ -1,0 +1,6 @@
+target/
+server/
+dist-client/
+.settings/
+.classpath
+.project
