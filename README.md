@@ -174,6 +174,7 @@ Abra o endereço mostrado no terminal, clique em **Connect**, aba **Tools**,
   }
 }
 ```
+Antes de rodar mvn -Pserver clean verify, feche o Claude Desktop e o MCP Inspector, pois eles mantêm o JAR do servidor em uso e impedem o clean
 
 4. Feche o Claude Desktop por completo e abra de novo.
 5. Peça, por exemplo: *"Calcule o IMC de 70 kg e 1,75 m"* ou *"Valide o CPF 529.982.247-25"*.
